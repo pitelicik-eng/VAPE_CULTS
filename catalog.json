@@ -1,0 +1,12 @@
+{"categories":[
+{"title":"💧 Жидкость","variant":"вкус","items":[
+ {"name":"Toxic Mint","price":150,"options":["Мята","Ледяная мята","Мята-лайм"]},
+ {"name":"Purple Haze","price":170,"options":["Виноград","Черника","Ежевика","Малина"]},
+ {"name":"Cult Fruit","price":140,"options":["Арбуз","Манго","Персик","Клубника","Ананас"]}]},
+{"title":"🚬 Одноразки","variant":"вкус","items":[
+ {"name":"Cult Stick 5000","price":220,"options":["Арбуз-лёд","Виноград","Манго","Кола"]}]},
+{"title":"🔋 Картриджи","variant":"цвет","items":[
+ {"name":"Pod Cartridge","price":90,"options":["Чёрный","Зелёный","Фиолетовый"]}]},
+{"title":"🔧 Устройства","variant":"цвет","items":[
+ {"name":"Cult Pod Kit","price":690,"options":["Чёрный","Зелёный","Серебристый"]}]}
+]}
